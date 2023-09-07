@@ -5,7 +5,7 @@
  *
  * Return: Always 0
  */
-unt main(void)
+int main(void)
 {
 	int a;
 	long int b;
