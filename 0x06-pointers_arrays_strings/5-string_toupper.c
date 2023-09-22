@@ -6,7 +6,7 @@
  * Return: the converted string.
  */
 char *string_toupper(char *c)
-{\
+{
 	int i;
 
 	i = 0;
